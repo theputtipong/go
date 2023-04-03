@@ -1,2 +1,18 @@
-# go
-My various projects on the GO language
+# Project go
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+
+## Tech Stack
+**Server:** GO
+
+
+## Authors
+- [@theputtipong](https://www.github.com/octokatherine)
+
+
+## Support
+For support, email puttipong.dou@gmail.com or join our Slack channel.
+
+
+![Logo](https://drive.google.com/file/d/1NNTkmoeHWmqP4tFjwTLUdyEHd53kN8hB/view?usp=share_link)
+
